@@ -39,16 +39,7 @@ Currently, I'm building my programming and engineering skills through projects, 
 * 🧩 **Codewars Exercises** — A collection of Python problem-solving exercises and challenges.
 * 💻 **Software Engineering Projects** — University and personal projects focused on programming, databases, and application development.
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
-</p>
-
-### 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=Linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat\&logo=Github\&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
