@@ -10,11 +10,9 @@ Currently, I'm building my programming and engineering skills through projects, 
 * 🎓 I'm currently studying **Software Engineering**
 * 🤖 I'm working toward specializing in **AI & Machine Learning**
 * 🐍 Currently learning and improving my **Python** skills
-* 📊 Working with **NumPy, Pandas, Matplotlib, and Scikit-learn**
 * 🧠 Learning the fundamentals of **Machine Learning and AI Engineering**
 * 💻 Building projects to strengthen my software engineering skills
 * 🧩 Practicing problem-solving through **Codewars**
-* 🌱 Currently learning **Git & GitHub** and improving my development workflow
 * 🔭 Currently working on **AI-related projects**
 * 💬 Feel free to reach out or connect with me!
 
